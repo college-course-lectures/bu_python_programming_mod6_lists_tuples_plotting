@@ -1,5 +1,10 @@
 from src.module5.files_exceptions import gather_lines, save_notes, build_report, speak_text
-
+"""
+Author: Professor Lewis
+Date: September 4, 2025
+Program demonstrates the use of Python Files and Exceptions with
+Azure AI Cognitive Text-to-Speech Service
+"""
 
 def main():
     try:

@@ -1,6 +1,13 @@
 # pip install azure-cognitiveservices-speech
 import azure.cognitiveservices.speech as speechsdk
 
+"""
+Author: Professor Lewis
+Date: September 4, 2025
+Program demonstrates the use of Python Files and Exceptions with
+Azure AI Cognitive Text-to-Speech Service
+"""
+
 SPEECH_KEY = "YOUR KEY HERE"
 SPEECH_REGION = "YOUR REGION HERE"
 
