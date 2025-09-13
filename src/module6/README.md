@@ -1,3 +1,6 @@
+## Professor Lewis
+## Python Programming 
+
 ## Lists and Tuples
 ### Sequence: an ordered collection (list, tuple).
 ### Element: an item inside a list and a tuple

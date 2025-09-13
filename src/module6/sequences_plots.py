@@ -1,5 +1,9 @@
 import matplotlib.pyplot as plt
-
+'''
+Professor Lewis
+Python Lists, Tuples and Plotting 
+September 12, 2025
+'''
 
 def explore_list_iteration():
     colors = ["purple", "orange", "blue"]
